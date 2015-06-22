@@ -1,0 +1,29 @@
+{
+  "name": "common_detection",
+  "version": "0.1",
+  "main": "browser_detection.src.js",
+  "description": "Common feature and browser detection to get a project started",
+  "homepage": "https://github.com/pitchandtone/common_detection",
+  "authors": [
+    "dev@dna.co.nz"
+  ],
+  "keywords": [
+    "jquery",
+    "browser",
+    "feature",
+    "detection"
+  ],
+  "license": "BSD-3",
+  "dependencies": {
+    "jquery": ">=1.7",
+    "do": ">=0.1",
+    "modernizr": ">=2.8.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
